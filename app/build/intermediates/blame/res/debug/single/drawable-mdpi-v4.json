@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support4Demos/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/app_sample_code.png",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support4Demos/app/src/main/res/drawable-mdpi/app_sample_code.png"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support4Demos/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/alert_dialog_icon.png",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support4Demos/app/src/main/res/drawable-mdpi/alert_dialog_icon.png"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support4Demos/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/refresh.png",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support4Demos/app/src/main/res/drawable-mdpi/refresh.png"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support4Demos/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_favorite.png",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support4Demos/app/src/main/res/drawable-mdpi/ic_favorite.png"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support4Demos/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/android_robot.png",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support4Demos/app/src/main/res/drawable-mdpi/android_robot.png"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support4Demos/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_drawer_am.png",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support4Demos/app/src/main/res/drawable-mdpi/ic_drawer_am.png"
+    }
+]

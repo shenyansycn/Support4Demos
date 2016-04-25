@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support4Demos/app/build/intermediates/res/merged/debug/menu/swipe_refresh_menu.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support4Demos/app/src/main/res/menu/swipe_refresh_menu.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support4Demos/app/build/intermediates/res/merged/debug/menu/shortcuts.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support4Demos/app/src/main/res/menu/shortcuts.xml"
+    }
+]

@@ -1,0 +1,150 @@
+[
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support4Demos/app/build/intermediates/res/merged/debug/layout/bidiformater_support.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support4Demos/app/src/main/res/layout/bidiformater_support.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support4Demos/app/build/intermediates/res/merged/debug/layout/activity_rounded_bitmap.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support4Demos/app/src/main/res/layout/activity_rounded_bitmap.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support4Demos/app/build/intermediates/res/merged/debug/layout/drawable_compat.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support4Demos/app/src/main/res/layout/drawable_compat.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support4Demos/app/build/intermediates/res/merged/debug/layout/send_result.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support4Demos/app/src/main/res/layout/send_result.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support4Demos/app/build/intermediates/res/merged/debug/layout/fragment_context_menu.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support4Demos/app/src/main/res/layout/fragment_context_menu.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support4Demos/app/build/intermediates/res/merged/debug/layout/explore_by_touch_helper.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support4Demos/app/src/main/res/layout/explore_by_touch_helper.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support4Demos/app/build/intermediates/res/merged/debug/layout/nested_scroll.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support4Demos/app/src/main/res/layout/nested_scroll.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support4Demos/app/build/intermediates/res/merged/debug/layout/fragment_arguments_support.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support4Demos/app/src/main/res/layout/fragment_arguments_support.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support4Demos/app/build/intermediates/res/merged/debug/layout/content_loading_progressbar.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support4Demos/app/src/main/res/layout/content_loading_progressbar.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support4Demos/app/build/intermediates/res/merged/debug/layout/accessibility_delegate.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support4Demos/app/src/main/res/layout/accessibility_delegate.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support4Demos/app/build/intermediates/res/merged/debug/layout/fragment_tabs.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support4Demos/app/src/main/res/layout/fragment_tabs.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support4Demos/app/build/intermediates/res/merged/debug/layout/accessibility_manager.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support4Demos/app/src/main/res/layout/accessibility_manager.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support4Demos/app/build/intermediates/res/merged/debug/layout/fragment_stack.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support4Demos/app/src/main/res/layout/fragment_stack.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support4Demos/app/build/intermediates/res/merged/debug/layout/sharing_support.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support4Demos/app/src/main/res/layout/sharing_support.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support4Demos/app/build/intermediates/res/merged/debug/layout/receive_result.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support4Demos/app/src/main/res/layout/receive_result.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support4Demos/app/build/intermediates/res/merged/debug/layout/list_item_icon_text.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support4Demos/app/src/main/res/layout/list_item_icon_text.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support4Demos/app/build/intermediates/res/merged/debug/layout/fragment_pager_list.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support4Demos/app/src/main/res/layout/fragment_pager_list.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support4Demos/app/build/intermediates/res/merged/debug/layout/sliding_pane_layout.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support4Demos/app/src/main/res/layout/sliding_pane_layout.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support4Demos/app/build/intermediates/res/merged/debug/layout/fragment_hide_show_support.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support4Demos/app/src/main/res/layout/fragment_hide_show_support.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support4Demos/app/build/intermediates/res/merged/debug/layout/labeled_text_edit.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support4Demos/app/src/main/res/layout/labeled_text_edit.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support4Demos/app/build/intermediates/res/merged/debug/layout/fragment_layout_support.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support4Demos/app/src/main/res/layout/fragment_layout_support.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support4Demos/app/build/intermediates/res/merged/debug/layout/simple_list_item_checkable_1.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support4Demos/app/src/main/res/layout/simple_list_item_checkable_1.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support4Demos/app/build/intermediates/res/merged/debug/layout/local_service_broadcaster.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support4Demos/app/src/main/res/layout/local_service_broadcaster.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support4Demos/app/build/intermediates/res/merged/debug/layout/view_pager_layout.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support4Demos/app/src/main/res/layout/view_pager_layout.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support4Demos/app/build/intermediates/res/merged/debug/layout/fragment_retain_instance.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support4Demos/app/src/main/res/layout/fragment_retain_instance.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support4Demos/app/build/intermediates/res/merged/debug/layout/fragment_pager.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support4Demos/app/src/main/res/layout/fragment_pager.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support4Demos/app/build/intermediates/res/merged/debug/layout/media_controller.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support4Demos/app/src/main/res/layout/media_controller.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support4Demos/app/build/intermediates/res/merged/debug/layout/file_provider_example.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support4Demos/app/src/main/res/layout/file_provider_example.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support4Demos/app/build/intermediates/res/merged/debug/layout/sharing_receiver_support.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support4Demos/app/src/main/res/layout/sharing_receiver_support.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support4Demos/app/build/intermediates/res/merged/debug/layout/wakeful_alarm_controller.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support4Demos/app/src/main/res/layout/wakeful_alarm_controller.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support4Demos/app/build/intermediates/res/merged/debug/layout/swipe_refresh_widget_sample.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support4Demos/app/src/main/res/layout/swipe_refresh_widget_sample.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support4Demos/app/build/intermediates/res/merged/debug/layout/videoview.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support4Demos/app/src/main/res/layout/videoview.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support4Demos/app/build/intermediates/res/merged/debug/layout/fragment_dialog_or_activity.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support4Demos/app/src/main/res/layout/fragment_dialog_or_activity.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support4Demos/app/build/intermediates/res/merged/debug/layout/fragment_dialog.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support4Demos/app/src/main/res/layout/fragment_dialog.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support4Demos/app/build/intermediates/res/merged/debug/layout/hello_world.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support4Demos/app/src/main/res/layout/hello_world.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support4Demos/app/build/intermediates/res/merged/debug/layout/fragment_tabs_pager.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support4Demos/app/src/main/res/layout/fragment_tabs_pager.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support4Demos/app/build/intermediates/res/merged/debug/layout/fragment_menu.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support4Demos/app/src/main/res/layout/fragment_menu.xml"
+    }
+]

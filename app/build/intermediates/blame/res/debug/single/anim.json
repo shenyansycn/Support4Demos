@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support4Demos/app/build/intermediates/res/merged/debug/anim/decelerate_quint.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support4Demos/app/src/main/res/anim/decelerate_quint.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support4Demos/app/build/intermediates/res/merged/debug/anim/fragment_slide_left_enter.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support4Demos/app/src/main/res/anim/fragment_slide_left_enter.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support4Demos/app/build/intermediates/res/merged/debug/anim/fragment_slide_right_enter.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support4Demos/app/src/main/res/anim/fragment_slide_right_enter.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support4Demos/app/build/intermediates/res/merged/debug/anim/fragment_slide_left_exit.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support4Demos/app/src/main/res/anim/fragment_slide_left_exit.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support4Demos/app/build/intermediates/res/merged/debug/anim/fragment_slide_right_exit.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support4Demos/app/src/main/res/anim/fragment_slide_right_exit.xml"
+    }
+]
